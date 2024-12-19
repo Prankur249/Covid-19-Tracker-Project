@@ -9,7 +9,7 @@ It is a platform which tells you every benefit of each and every herb . You don'
 We also provides you the origin , distribution , uses and benefits of herbs . 
 
 
-## Technology we used 
+## Technology used 
 
 * HTML
 * CSS
@@ -53,15 +53,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-<h1 align="center">Made With 💖 By Developers !</h1>
-<li>If you like our Initiative drop a ⭐</li>
-<h2 >Contributors :</h2>
-<h3 >Credit goes to these people !!</h3>
-
-* Jatin Jain
-* Vanshika 
-* Soumili 
-* Mansi Jain
 
 
 
